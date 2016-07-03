@@ -30,7 +30,7 @@
 				<version>2.2</version>
 				<configuration>
 					<!-- Path -->
-					<path>/t01057960119_1</path>
+					<path>/t01057960119_2</path>
 					<!-- 구동중인 톰캣의 주소 + /manager/text -->
 					<url>http://google1.oa.gg:8081/manager/text</url>
 					<!-- 톰캣 사용자 정보 -->
